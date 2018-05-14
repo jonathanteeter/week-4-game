@@ -16,3 +16,5 @@ This was an exercise in program flow and control using these web technologies:  
 2) The game generates random numbers. The 1st assigns a target number to match. The 2nd assigns a different number to each crystal.
 2) Project uses the JavaScript switch statement to perform different actions based on different conditions.
 
+*** Link to My Portfolio ***
+https://teeterjm58.github.io/Basic-Portfolio/
