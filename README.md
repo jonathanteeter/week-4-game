@@ -1,12 +1,12 @@
 # week-4-game
 ## Introduction
-This game is called Crystal Collector.  
+This game is called Crystal Collector, an interactive game for web browsers.  The app dynamically updates the HTML page with the jQuery library.
 
-## What the project does
-This is an interactive game for web browsers.  The app dynamically updates your HTML pages with the jQuery library.
+## Accomplishments
+Used a Bootstrap framework using HTML, CSS, and JavaScript with jQuery library.
 
 ## Objective of game
-The core objective of the game is to match the random number generated.  This is done by selecting the crystal images, each having a different random number associated with them.
+The core objective of the game is to match the random number generated.  This is done by selecting the crystal images, each having a different number associated with them.
 
 ## Why the project is useful
 This was an exercise in program flow and control using these web technologies:  HTML, CSS, JavaScript, and jQuery.  
@@ -17,4 +17,4 @@ This was an exercise in program flow and control using these web technologies:  
 - Project uses the JavaScript switch statement to perform different actions based on different conditions.
 
 ## Link to [My Portfolio] 
-(https://teeterjm58.github.io/jtPortfolio/)
+(https://jonathanteeter.github.io/jtPortfolio/)

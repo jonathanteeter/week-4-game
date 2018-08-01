@@ -22,29 +22,27 @@
     <div id="title">Crystals Collector!</div>
 
     <div id="instructions">
-        <h4>Instructions</h4>
+        <h3>Instructions</h3>
         <ol>
             <li>You will be given a random number at the start of the game.</li>
-            <li>Using the $(this) keyword specifies that we should be extracting the crystal value of the clicked crystal.</li>
+            <li>Select a crystal to add to your total score.</li>
             <li>You win the game by matching your total score to random number.</li>
             <li>You lose the game if your total score goes above the random number.</li>
             <li>The value of each crystal is hidden from you until you click on it.</li>
-            <li>Each time when the game starts, the game will change the values of each crystal.</li>
+            <li>Each time the game starts, the game will change the value of each crystal.</li>
         </ol>
     </div>
     
 
     <!-- Here we added a header which will hold the "number-to-guess" -->
-    <div id="guess">Number to Guess = <span id="number-to-guess"></span></div>
+    <div id="guess"><h5>Number to Guess = <span id="number-to-guess"></span></h5></div>
 
-    <div id="winLoss">Wins: <span id="numberWins"></span><br><br>Losses: <span id="numberLosses"></span></div>
+    <div id="winLoss"><h5>Wins:&nbsp&nbsp<span id="numberWins"></span><br><br>Losses:&nbsp&nbsp<span id="numberLosses"></span></h5></div>
 
     <!-- Note that this div is now empty. We will fill it dynamically -->
     <div id="crystals"></div>
 
-    <div id="totalScore">Your total score is:</div>
-
-    <div id="userInput"></div>
+    <div id="totalScore"><h5>Your total score is:&nbsp&nbsp<span id="userInput"></span></h5></div>
 
     <!-- JavaScript -->
     <script src="assets/javascript/game.js"></script>
