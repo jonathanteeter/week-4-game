@@ -24,8 +24,8 @@ This game is called Crystal Collector, an interactive game for web browsers. The
 This was an exercise in program flow and control using these web technologies:  HTML, CSS, JavaScript, and jQuery.  
 
 ## Challenges
-* This is a scoring game and an exercise in program flow and control.
-* The application uses the useful JavaScript switch statement to perform different actions based on different conditions.
+* This is a scoring game.  Flow and control was key to success to layout before coding what must happen and in what order.
+* The application uses the JavaScript switch statement to perform different actions based on specific conditions.
 
 ## Link to [My Portfolio] 
 (https://jonathanteeter.github.io/jtPortfolio/)
